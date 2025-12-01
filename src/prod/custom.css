@@ -1,0 +1,13 @@
+.custom-nav-link   {
+    color: white !important;
+    font-style: bold;
+    border-bottom: 2px dotted white;
+    padding-bottom:  25px;
+    padding-top:  25px;
+    ;
+    
+}
+
+.nav {
+    padding-right:  50px;
+}
